@@ -42,5 +42,5 @@
 <br/>
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nujhatfariha)  
+<a href="https://github.com/NujhatFariha/github-readme-activity-graph"><img alt="Nujhat Fariha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NujhatFariha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
