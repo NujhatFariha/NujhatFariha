@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
 - 📫 How to reach me **nujhat.fariha16@gmail.com**
-   :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
