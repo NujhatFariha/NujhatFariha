@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NujhatFariha](https://github.com/NujhatFariha)
 
-- 💬 Ask me about **HTMl5,CSS3,BOOTSTRAP,TAILWIND,JS.**
+- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
 - 📫 How to reach me **nujhat.fariha16@gmail.com**
 
