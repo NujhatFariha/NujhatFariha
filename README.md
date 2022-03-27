@@ -7,7 +7,7 @@
 <a href="">
     <img src="https://komarev.com/ghpvc/?username=nujhatfariha">
 </a>
-<a href="https://github.com/nujhatfariha?tab=followers"><img src="https://img.shields.io/github/followers/nujhatfariha?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nujhatfariha?tab=followers"><img src="giphy.gif" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently learning **Js,React**
 
