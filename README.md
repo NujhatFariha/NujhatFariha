@@ -1,4 +1,4 @@
-<a href="#"><img align="left" width="50%" height="450px" src="bg.png"/></a>
+<a href="#"><img align="left" width="50%" height="450px" src=""/></a>
 <h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nujhat Fariha </h1>
 
 
@@ -8,6 +8,8 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 F𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/NujhatFariha?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/NujhatFariha?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+</br>
+
 - 🌱 I’m currently learning **Js,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NujhatFariha](https://github.com/NujhatFariha)
