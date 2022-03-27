@@ -3,12 +3,11 @@
 
 
 ## Views and Followers
-
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=nujhatfariha">
-</a>
-<a href="https://github.com/nujhatfariha?tab=followers"><img src="giphy.gif" alt="GitHub Badge"></a>
-
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=NujhatFariha&style=flat&color=brightgreen"> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 F𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/NujhatFariha?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/NujhatFariha?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 - 🌱 I’m currently learning **Js,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NujhatFariha](https://github.com/NujhatFariha)
