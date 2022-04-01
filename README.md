@@ -2,7 +2,9 @@
 <h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nujhat Fariha </h1>
 
 </br>
+
 ## Views and Followers
+
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=NujhatFariha&style=flat&color=brightgreen"> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 F𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/NujhatFariha?label=Followers&style=social"> •   
@@ -10,7 +12,7 @@
 </p>
 </br>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🌱 I’m currently learning **Js,React**
 
