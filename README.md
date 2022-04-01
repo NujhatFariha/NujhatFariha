@@ -1,4 +1,4 @@
-<a href="#"><img align="left" width="50%" height="390px" src="bg.gif"/></a>
+<a href="#"><img align="left" width="40%" height="300px" src="bg.gif"/></a>
 <h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nujhat Fariha </h1>
 
 
