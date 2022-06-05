@@ -1,5 +1,5 @@
 <a href="#"><img align="right" width="50%" height="320px" src="giphy.gif"/></a>
-<h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nujhat Fariha </h1>
+<h1 color="red" align="center">Hi <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>, I'm Nujhat Fariha </h1>
 
 </br>
 
