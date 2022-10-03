@@ -1,4 +1,4 @@
-<a href="#"><img align="right" width="50%" height="320px" src="dev.gif"/></a>
+<a href="#"><img align="right" width="40%" height="320px" src="dev.gif"/></a>
 <h1 color="red" align="center">Hi <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>, I'm Nujhat Fariha </h1>
 
 </br>
